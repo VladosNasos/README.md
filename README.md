@@ -5,7 +5,7 @@
 - 🌱 **Currently learning:** TS React, but mostly just procrastinating
 - 💼 **Looking for:** Job, because I can't live on ramen forever
 - 🌐 **Fluent in:** TS and C#, though my code is mostly inspired by StackOverflow
-- 💬 **Ask me about:** I once debugged a program without swearing. (No, seriously!)
+- 💬 **Ask me about:** Potential job offers, exciting freelance projects, or just send me memes
 - ⚡ **Fun fact:** I once debugged a program without swearing. (No, seriously!)
 
 ---
